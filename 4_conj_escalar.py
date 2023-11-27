@@ -22,7 +22,7 @@ def main():
     #Saída de Dados
     print(lista_a)
     print(lista_b)
-    print(f'({lista_a[0]} x {lista_b[0]}) + ({lista_a[1]} x {lista_b[1]}) + ({lista_a[2]} x {lista_b[2]}) +'
+    print(f'({lista_a[0]} x {lista_b[0]}) + ({lista_a[1]} x {lista_b[1]}) + ({lista_a[2]} x {lista_b[2]}) + '
           f'({lista_a[3]} x {lista_b[3]}) + ({lista_a[4]} x {lista_b[4]})','=',produto_escalar)
 
 if __name__ == '__main__':
